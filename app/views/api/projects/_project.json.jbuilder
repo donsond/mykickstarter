@@ -1,0 +1,1 @@
+json.extract! project, :id, :title, :body, :video_url, :creator_id, :funding_required, :campaign_end_date, :category
